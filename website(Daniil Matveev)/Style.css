@@ -1,0 +1,36 @@
+p 	{
+	background-color: #2E0249;
+	font-size: 40px;
+}
+	{
+	color:#570A57;
+	font-size: 35px;
+}
+
+{
+	color: green;
+	font-size: 20px;
+	text-align: justify;
+	text-indent: 3ch;
+	margin: 2em, 5em;
+}
+a {
+	font-size: 50px;
+	text-decoration: none;
+}
+div {
+	color: black;
+	width: 50%;
+	margin: auto;
+	box-shadow:0 300px 300px 200px rgb(235, 177, 52, 1.0);
+	background-color: #570A57;
+
+}
+
+	{
+		color: purple;
+}
+
+	{
+		color: blue;
+}
